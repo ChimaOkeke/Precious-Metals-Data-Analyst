@@ -1,5 +1,5 @@
 Project Overview  
-The **"[Precious Metals Data Analysis](#)"** Power BI project offers a detailed exploration of historical and market data for key metals—**Gold**, **Silver**, **Platinum**, and **Palladium**. By transforming complex datasets into clear and dynamic visualizations, this project empowers analysts and investors to monitor pricing trends, compare metals, assess volatility, and make informed investment decisions in the commodities market.
+The **"[Precious Metals Data Analysis](https://github.com/ChimaOkeke/Precious-Metals-Data-Analyst)"** Power BI project offers a detailed exploration of historical and market data for key metals—**Gold**, **Silver**, **Platinum**, and **Palladium**. By transforming complex datasets into clear and dynamic visualizations, this project empowers analysts and investors to monitor pricing trends, compare metals, assess volatility, and make informed investment decisions in the commodities market.
 
 **Key Features:**
 
@@ -37,3 +37,9 @@ The **"Precious Metals Data Analysis"** project is designed to enable financial 
 
 **Conclusion:**  
 **"Precious Metals Data Analysis"** is more than a set of dashboards—it’s a strategic tool designed for those navigating the fast-moving world of commodity investing. From identifying price trends to managing risk, this Power BI report transforms raw market data into clear, insightful intelligence for sustainable financial strategy.
+
+https://app.powerbi.com/groups/71e940b3-604d-45d2-ad06-a31ae12f7704/reports/f8a3779f-ad1c-45ef-8655-78bd0c9c533f/26d9b3143dda1703b0e0?experience=power-bi
+
+
+![Screenshot 2025-05-13 221142](https://github.com/user-attachments/assets/34f2baf0-5761-4cbc-9b13-fa65207d7a34)
+
